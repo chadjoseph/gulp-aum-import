@@ -1,0 +1,23 @@
+{
+  "name": "gulp-aum-import",
+  "version": "0.0.2",
+  "description": "Aum particle import transpiler.",
+  "keywords": [
+    "aum",
+    "gulp",
+    "mvc"
+  ],
+  "author": {
+    "name": "Chad Joseph Brown",
+    "url": "http://www.chadjoseph.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadjoseph/gulp-aum-import.git"
+  },
+  "dependencies": {
+    "through2": "~0.6.3"
+  }
+}
+
